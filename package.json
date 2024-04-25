@@ -26,4 +26,5 @@
     "typescript": "^5.0.4"
   },
   "pre-commit": "lint"
+  
 }
