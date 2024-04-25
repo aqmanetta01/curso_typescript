@@ -28,5 +28,3 @@ module.exports = {
     "prettier/prettier": ["error", {}, { usePrettierrc: true }],
   },
 };
-// eslint-disable-next-line prettier/prettier
-
